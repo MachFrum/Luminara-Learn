@@ -59,8 +59,8 @@ Teachers can extend their reach and effectiveness:
 ---
 
 ## Experience Luminara Learn in Action
-Curious to see Luminara Learn in motion? Get an exclusive first look at our early demo! Simply download [Expo Go](https://expo.dev/client) from the Play Store or App Store, then scan the QR code below.![Luminara Learn](./Demo Video Of Product/Expo go.png)
-to Instantly explore a preview of our app and discover how we're illuminating the path to understanding.
+Curious to see Luminara Learn in motion? Get an exclusive first look at our early demo! Simply download [Expo Go](https://expo.dev/client) from the Play Store or App Store, then scan the QR code below to instantly explore a preview of our app and discover how we're illuminating the path to understanding.
+![QR Code](./Demo%20Video%20Of%20Product/Expo%20go.png) 
 
 Want to dive deeper? Feel free to clone this repo and import it into your [bolt.new](https://bolt.new) environment. Tweak, experiment, and make it your own—then share your creations and insights with us by tagging **#LuminaraLearn** and **#PLPHackathon**. We can't wait to see how you help light the way!
 
